@@ -1,3 +1,3 @@
 # Roblox-lethal
 
-Built on Potassium. May require strong executor.
+Built on Volt. You need a config to run this.
